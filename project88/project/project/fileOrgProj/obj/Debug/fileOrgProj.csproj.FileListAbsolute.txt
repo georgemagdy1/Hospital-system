@@ -1,0 +1,43 @@
+F:\Academy\projects\file org\project\fileOrgProj\bin\Debug\fileOrgProj.exe.config
+F:\Academy\projects\file org\project\fileOrgProj\bin\Debug\fileOrgProj.exe
+F:\Academy\projects\file org\project\fileOrgProj\bin\Debug\fileOrgProj.pdb
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.AssemblyReference.cache
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.SuggestedBindingRedirects.cache
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.Properties.Resources.resources
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.GenerateResource.cache
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.CoreCompileInputs.cache
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.exe
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.pdb
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.mainForm.resources
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.addPatientForm.resources
+F:\Academy\projects\file org\project\fileOrgProj\obj\Debug\fileOrgProj.displayForm.resources
+F:\Academy\projects\file org\project\project\fileOrgProj\bin\Debug\fileOrgProj.exe.config
+F:\Academy\projects\file org\project\project\fileOrgProj\bin\Debug\fileOrgProj.exe
+F:\Academy\projects\file org\project\project\fileOrgProj\bin\Debug\fileOrgProj.pdb
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.AssemblyReference.cache
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.SuggestedBindingRedirects.cache
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.addPatientForm.resources
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.displayForm.resources
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.mainForm.resources
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.Properties.Resources.resources
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.GenerateResource.cache
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.CoreCompileInputs.cache
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.exe
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.pdb
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.search.resources
+F:\Academy\projects\file org\project\project\fileOrgProj\obj\Debug\fileOrgProj.modify.resources
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\bin\Debug\fileOrgProj.exe.config
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\bin\Debug\fileOrgProj.exe
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\bin\Debug\fileOrgProj.pdb
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.AssemblyReference.cache
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.addPatientForm.resources
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.displayForm.resources
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.mainForm.resources
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.searchBtn.resources
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.Properties.Resources.resources
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.search.resources
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.GenerateResource.cache
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.exe
+C:\Users\george\Desktop\project88\project\project\fileOrgProj\obj\Debug\fileOrgProj.pdb
